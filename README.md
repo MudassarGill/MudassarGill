@@ -1,23 +1,40 @@
-# Hi, I'm Mudassar Hussain  
+Hi, I'm Mudassar Hussain
 
-I am a Machine Learning Engineer (in training) and Python Developer with a strong foundation in Artificial Intelligence.  
-Currently pursuing a BS in Artificial Intelligence at The Islamia University of Bahawalpur.  
+I am a Machine Learning Engineer  and Python Developer with a strong foundation in Artificial Intelligence. Currently, I am pursuing a Bachelor of Science (BS) in Artificial Intelligence at The Islamia University of Bahawalpur (2023–2027).
 
-## What I Do
-- Work on Machine Learning and Data Science projects  
-- Build Python-based tools and automation scripts  
-- Explore AI research and real-world applications  
+I am passionate about solving real-world problems using data-driven approaches and continuously learning new technologies to enhance my skills in machine learning, AI, and software development.
 
-## Skills
-- Python, NumPy, Pandas, Matplotlib, Scikit-Learn  
-- Machine Learning Algorithms: Regression, Classification, Clustering  
-- Data Preprocessing & Visualization  
-- Artificial Intelligence Fundamentals  
+What I Do
 
-## Education
-- BS in Artificial Intelligence, The Islamia University of Bahawalpur (2023–2027)  
+Develop Machine Learning and Data Science projects.
 
-## Contact
-- Email: mudassarhussain6533@gmail.com  
-- LinkedIn: [Saffia Bibi](https://www.linkedin.com/in/saffia-bibi/) 
+Build Python-based automation tools and scripts.
 
+Explore AI research and implement real-world applications.
+
+Work on data preprocessing, analysis, and visualization to extract meaningful insights.
+
+Apply machine learning algorithms to build predictive and classification models.
+
+Skills
+
+Programming & Libraries: Python, NumPy, Pandas, Matplotlib, Scikit-Learn
+
+Machine Learning: Regression, Classification, Clustering
+
+Data Handling: Data preprocessing, cleaning, and visualization
+
+Artificial Intelligence Fundamentals: Neural networks, supervised & unsupervised learning concepts
+
+Tools & Platforms: Jupyter Notebook, Git, GitHub
+
+Education
+
+Bachelor of Science (BS) in Artificial Intelligence
+The Islamia University of Bahawalpur (2023–2027)
+
+Contact
+
+Email: mudassarhussain6533@gmail.com
+
+LinkedIn: Saffia Bibi
