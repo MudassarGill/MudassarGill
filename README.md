@@ -37,4 +37,4 @@ Contact
 
 Email: mudassarhussain6533@gmail.com
 
-LinkedIn: Saffia Bibi
+LinkedIn: www.linkedin.com/in/mudassar-hussain-9452b2387
