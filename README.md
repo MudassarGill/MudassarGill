@@ -1,6 +1,6 @@
 # 🌟 **Welcome to My GitHub Profile!** 👋
 
-**Hi! I'm Mudassar Gill**, an enthusiastic AI/ML Engineer with a strong passion for Deep Learning, NLP, MLOps, Gen AI, and AI Agents.
+# **Hi! I'm Mudassar Gill**, an enthusiastic AI/ML Engineer with a strong passion for Deep Learning, NLP, MLOps, Gen AI, and AI Agents.
 
 I love building intelligent systems that solve real-world problems — from text generation and sequence modeling to modern AI automation and deployment-ready ML pipelines.  
 My focus is always on creating efficient, scalable, and production-level AI solutions using the latest technologies.
@@ -8,46 +8,19 @@ My focus is always on creating efficient, scalable, and production-level AI solu
 
 ---
 
-## 🔧 Skills & Technologies
+### 🔧 Skills & Technologies
 
-### 🤖 Machine Learning & Deep Learning
-- TensorFlow, PyTorch, Keras, Scikit-learn  
-- RNN, LSTM, GRU, CNN, Transformers  
-- Time-Series, Sequence Modeling, Word Prediction Models  
+**Machine Learning & AI:** TensorFlow, PyTorch, Keras, Scikit-learn, RNN, LSTM, GRU, CNN, Transformers, Time-Series & Sequence Modeling  
+**Computer Vision:** OpenCV, Image Classification, Object Detection, Deep Learning for image understanding  
+**Natural Language Processing (NLP):** Hugging Face Transformers, NLTK, SpaCy, Text Generation, Embeddings, Sentiment Analysis, LLM Fine-tuning  
+**Generative AI (GenAI):** GPT-based applications, AI Agents, Model Fine-tuning, Embeddings, RAG Pipelines  
+**Programming Languages:** Python, JavaScript, C++  
+**Data Science & Analytics:** Pandas, NumPy, Matplotlib  
+**Tools & Frameworks:** FastAPI, Flask, Docker, GitHub Actions, CI/CD, Model Serving, Model Monitoring  
+**Web Development:** HTML, CSS, JavaScript, React, Flutter  
+**Cloud & Deployment:** AWS, GCP, Render, Railway  
+**MLOps:** CI/CD pipelines, Model Deployment, Versioning & Monitoring
 
-### 🧠 Natural Language Processing (NLP)
-- Hugging Face Transformers, NLTK, SpaCy  
-- Text generation, embeddings, sentiment analysis  
-- Fine-tuning LLMs & prompt engineering  
-
-### ✨ Generative AI (GenAI)
-- GPT-based applications, LLM workflows  
-- AI Agents (single + multi-agent systems)  
-- Model fine-tuning, embeddings, RAG pipelines  
-
-### 🎥 Computer Vision
-- OpenCV, Image Classification, Object Detection  
-- Deep Learning for image understanding  
-
-### ⚙️ MLOps & Deployment
-- Docker, GitHub Actions, CI/CD  
-- FastAPI, Flask, Model Serving  
-- Model versioning, monitoring & automation  
-
-### 📊 Data Science & Analytics
-- Pandas, NumPy, Matplotlib  
-- Data preprocessing, exploratory analysis  
-
-### 💻 Programming Languages
-- Python (Main)  
-- JavaScript  
-- C++ (Basics)
-
-### ☁️ Cloud & Hosting
-- AWS, GCP, Render, Railway  
-- API deployments, cloud ML workflows  
-
----
 
 ## **📫 Connect With Me**
 
@@ -97,4 +70,17 @@ My focus is always on creating efficient, scalable, and production-level AI solu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
 
 </p>
+
+### 🌱 Current Goals
+
+- Build and deploy more production-ready ML & AI solutions.  
+- Advance skills in NLP, LLM fine-tuning, and Gen AI pipelines.  
+- Enhance expertise in MLOps, CI/CD, and cloud deployment.  
+- Contribute to open-source AI projects and share knowledge.
+
+### 📅 Fun Fact
+
+I enjoy exploring new AI technologies, experimenting with ML models, and learning advanced programming concepts. 🚀  
+
+Thanks for visiting my GitHub profile! 🙌
 
