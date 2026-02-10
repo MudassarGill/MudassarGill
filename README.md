@@ -1,9 +1,10 @@
-**🌟 Welcome to My GitHub Profile! 👋**
+# 🌟 **Welcome to My GitHub Profile!** 👋
 
-**Hi! I'm Mudassar Gill, an enthusiastic AI/ML Engineer with a strong passion for Deep Learning, NLP, MLOps, Gen AI, and AI Agents.**
+**Hi! I'm Mudassar Gill**, an enthusiastic AI/ML Engineer with a strong passion for Deep Learning, NLP, MLOps, Gen AI, and AI Agents.
 
 I love building intelligent systems that solve real-world problems — from text generation and sequence modeling to modern AI automation and deployment-ready ML pipelines.  
 My focus is always on creating efficient, scalable, and production-level AI solutions using the latest technologies.
+
 
 ---
 
