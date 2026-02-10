@@ -10,29 +10,41 @@ My focus is always on creating efficient, scalable, and production-level AI solu
 
 ### 🔧 Skills & Technologies
 
-**Machine Learning & AI:** TensorFlow, PyTorch, Keras, Scikit-learn, RNN, LSTM, GRU, CNN, Transformers, Time-Series & Sequence Modeling  
-**Computer Vision:** OpenCV, Image Classification, Object Detection, Deep Learning for image understanding  
-**Natural Language Processing (NLP):** Hugging Face Transformers, NLTK, SpaCy, Text Generation, Embeddings, Sentiment Analysis, LLM Fine-tuning  
-**Generative AI (GenAI):** GPT-based applications, AI Agents, Model Fine-tuning, Embeddings, RAG Pipelines  
-**Programming Languages:** Python, JavaScript, C++  
-**Data Science & Analytics:** Pandas, NumPy, Matplotlib  
-**Tools & Frameworks:** FastAPI, Flask, Docker, GitHub Actions, CI/CD, Model Serving, Model Monitoring  
-**Web Development:** HTML, CSS, JavaScript, React, Flutter  
-**Cloud & Deployment:** AWS, GCP, Render, Railway  
-**MLOps:** CI/CD pipelines, Model Deployment, Versioning & Monitoring
+• **Machine Learning & AI:** TensorFlow, PyTorch, Keras, Scikit-learn, RNN, LSTM, GRU, CNN, Transformers, Time-Series & Sequence Modeling  
+• **Computer Vision:** OpenCV, Image Classification, Object Detection, Deep Learning for image understanding  
+• **Natural Language Processing (NLP):** Hugging Face Transformers, NLTK, SpaCy, Text Generation, Embeddings, Sentiment Analysis, LLM Fine-tuning  
+• **Generative AI (GenAI):** GPT-based applications, AI Agents, Model Fine-tuning, Embeddings, RAG Pipelines  
+• **Programming Languages:** Python, JavaScript, C++  
+• **Data Science & Analytics:** Pandas, NumPy, Matplotlib  
+• **Tools & Frameworks:** FastAPI, Flask, Docker, GitHub Actions, CI/CD, Model Serving, Model Monitoring  
+• **Web Development:** HTML, CSS, JavaScript, React, Flutter  
+• **Cloud & Deployment:** AWS, GCP, Render, Railway  
+• **MLOps:** CI/CD pipelines, Model Deployment, Versioning & Monitoring
+
+
+
 
 
 ## **📫 Connect With Me**
+
+
+
 
 <a href="https://www.linkedin.com/in/mudassar65" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
 </a>
 
+
+
 📧 **Email:** **mudassarjutt65030@gmail.com**
+
+
 
 ---
 
 ## 🛠️ **Languages and Tools**
+
+
 
 <p align="left">
 
@@ -71,12 +83,17 @@ My focus is always on creating efficient, scalable, and production-level AI solu
 
 </p>
 
+
+
+
 ### 🌱 Current Goals
 
 - Build and deploy more production-ready ML & AI solutions.  
 - Advance skills in NLP, LLM fine-tuning, and Gen AI pipelines.  
 - Enhance expertise in MLOps, CI/CD, and cloud deployment.  
 - Contribute to open-source AI projects and share knowledge.
+
+- 
 
 ### 📅 Fun Fact
 
