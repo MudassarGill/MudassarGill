@@ -1,40 +1,118 @@
-Hi, I'm Mudassar Hussain
+**🌟 Welcome to My GitHub Profile! 👋**
+**Hi! I'm Mudassar Gill, an enthusiastic AI/ML Engineer with a strong passion for Deep Learning, NLP, MLOps, Gen AI, and AI Agents.**
 
-I am a Machine Learning Engineer  and Python Developer with a strong foundation in Artificial Intelligence. Currently, I am pursuing a Bachelor of Science (BS) in Artificial Intelligence at The Islamia University of Bahawalpur (2023–2027).
+I love building intelligent systems that solve real-world problems — from text generation and sequence modeling to modern AI automation and deployment-ready ML pipelines.
+My focus is always on creating efficient, scalable, and production-level AI solutions using the latest technologies.
 
-I am passionate about solving real-world problems using data-driven approaches and continuously learning new technologies to enhance my skills in machine learning, AI, and software development.
 
-What I Do
+Skills & Technologies
+🤖 Machine Learning & Deep Learning
 
-Develop Machine Learning and Data Science projects.
+TensorFlow, PyTorch, Keras, Scikit-learn
 
-Build Python-based automation tools and scripts.
+RNN, LSTM, GRU, CNN, Transformers
 
-Explore AI research and implement real-world applications.
+Time-Series, Sequence Modeling, Word Prediction Models
 
-Work on data preprocessing, analysis, and visualization to extract meaningful insights.
+🧠 Natural Language Processing (NLP)
 
-Apply machine learning algorithms to build predictive and classification models.
+Hugging Face Transformers, NLTK, SpaCy
 
-Skills
+Text generation, embeddings, sentiment analysis
 
-Programming & Libraries: Python, NumPy, Pandas, Matplotlib, Scikit-Learn
+Fine-tuning LLMs & prompt engineering
 
-Machine Learning: Regression, Classification, Clustering
+✨ Generative AI (GenAI)
 
-Data Handling: Data preprocessing, cleaning, and visualization
+GPT-based applications, LLM workflows
 
-Artificial Intelligence Fundamentals: Neural networks, supervised & unsupervised learning concepts
+AI Agents (single + multi-agent systems)
 
-Tools & Platforms: Jupyter Notebook, Git, GitHub
+Model fine-tuning, embeddings, RAG pipelines
 
-Education
+🎥 Computer Vision
 
-Bachelor of Science (BS) in Artificial Intelligence
-The Islamia University of Bahawalpur (2023–2027)
+OpenCV, Image Classification, Object Detection
 
-Contact
+Deep Learning for image understanding
 
-Email: mudassarhussain6533@gmail.com
+⚙️ MLOps & Deployment
 
-LinkedIn: www.linkedin.com/in/mudassar-hussain-9452b2387
+Docker, GitHub Actions, CI/CD
+
+FastAPI, Flask, Model Serving
+
+Model versioning, monitoring & automation
+
+📊 Data Science & Analytics
+
+Pandas, NumPy, Matplotlib
+
+Data preprocessing, exploratory analysis
+
+💻 Programming Languages
+
+Python (Main)
+
+JavaScript
+
+C++ (Basics)
+
+☁️ Cloud & Hosting
+
+AWS, GCP, Render, Railway
+
+API deployments, cloud ML workflows
+
+
+**Let's Connect!**
+Feel free to reach out to me for collaborations, mentorship, or just a friendly chat about AI, machine learning, or anything tech-related! 😊
+
+## 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/mudassar65" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+</a>
+
+📧 Email: **mudassarjutt65030@gmail.com**
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+  <!-- AWS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+
+  <!-- CSS3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+
+  <!-- Flask -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
+
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+
+  <!-- HTML5 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+
+  <!-- MySQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+
+  <!-- Pandas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+
+  <!-- PyTorch -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+
+  <!-- Scikit-Learn -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+
+  <!-- TensorFlow -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+
+</p>
+
+
