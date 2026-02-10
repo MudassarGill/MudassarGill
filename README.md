@@ -1,82 +1,64 @@
 **🌟 Welcome to My GitHub Profile! 👋**
+
 **Hi! I'm Mudassar Gill, an enthusiastic AI/ML Engineer with a strong passion for Deep Learning, NLP, MLOps, Gen AI, and AI Agents.**
 
-I love building intelligent systems that solve real-world problems — from text generation and sequence modeling to modern AI automation and deployment-ready ML pipelines.
+I love building intelligent systems that solve real-world problems — from text generation and sequence modeling to modern AI automation and deployment-ready ML pipelines.  
 My focus is always on creating efficient, scalable, and production-level AI solutions using the latest technologies.
 
+---
 
-Skills & Technologies
-🤖 Machine Learning & Deep Learning
+## 🔧 Skills & Technologies
 
-TensorFlow, PyTorch, Keras, Scikit-learn
+### 🤖 Machine Learning & Deep Learning
+- TensorFlow, PyTorch, Keras, Scikit-learn  
+- RNN, LSTM, GRU, CNN, Transformers  
+- Time-Series, Sequence Modeling, Word Prediction Models  
 
-RNN, LSTM, GRU, CNN, Transformers
+### 🧠 Natural Language Processing (NLP)
+- Hugging Face Transformers, NLTK, SpaCy  
+- Text generation, embeddings, sentiment analysis  
+- Fine-tuning LLMs & prompt engineering  
 
-Time-Series, Sequence Modeling, Word Prediction Models
+### ✨ Generative AI (GenAI)
+- GPT-based applications, LLM workflows  
+- AI Agents (single + multi-agent systems)  
+- Model fine-tuning, embeddings, RAG pipelines  
 
-🧠 Natural Language Processing (NLP)
+### 🎥 Computer Vision
+- OpenCV, Image Classification, Object Detection  
+- Deep Learning for image understanding  
 
-Hugging Face Transformers, NLTK, SpaCy
+### ⚙️ MLOps & Deployment
+- Docker, GitHub Actions, CI/CD  
+- FastAPI, Flask, Model Serving  
+- Model versioning, monitoring & automation  
 
-Text generation, embeddings, sentiment analysis
+### 📊 Data Science & Analytics
+- Pandas, NumPy, Matplotlib  
+- Data preprocessing, exploratory analysis  
 
-Fine-tuning LLMs & prompt engineering
+### 💻 Programming Languages
+- Python (Main)  
+- JavaScript  
+- C++ (Basics)
 
-✨ Generative AI (GenAI)
+### ☁️ Cloud & Hosting
+- AWS, GCP, Render, Railway  
+- API deployments, cloud ML workflows  
 
-GPT-based applications, LLM workflows
+---
 
-AI Agents (single + multi-agent systems)
-
-Model fine-tuning, embeddings, RAG pipelines
-
-🎥 Computer Vision
-
-OpenCV, Image Classification, Object Detection
-
-Deep Learning for image understanding
-
-⚙️ MLOps & Deployment
-
-Docker, GitHub Actions, CI/CD
-
-FastAPI, Flask, Model Serving
-
-Model versioning, monitoring & automation
-
-📊 Data Science & Analytics
-
-Pandas, NumPy, Matplotlib
-
-Data preprocessing, exploratory analysis
-
-💻 Programming Languages
-
-Python (Main)
-
-JavaScript
-
-C++ (Basics)
-
-☁️ Cloud & Hosting
-
-AWS, GCP, Render, Railway
-
-API deployments, cloud ML workflows
-
-
-**Let's Connect!**
-Feel free to reach out to me for collaborations, mentorship, or just a friendly chat about AI, machine learning, or anything tech-related! 😊
-
-## 📫 Connect With Me
+## **📫 Connect With Me**
 
 <a href="https://www.linkedin.com/in/mudassar65" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
 </a>
 
-📧 Email: **mudassarjutt65030@gmail.com**
+📧 **Email:** **mudassarjutt65030@gmail.com**
 
-## 🛠️ Languages and Tools
+---
+
+## 🛠️ **Languages and Tools**
 
 <p align="left">
 
@@ -114,5 +96,4 @@ Feel free to reach out to me for collaborations, mentorship, or just a friendly 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
 
 </p>
-
 
