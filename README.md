@@ -138,11 +138,6 @@ My focus is always on creating efficient, scalable, and production-level AI solu
   <!-- Vite -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40"/>
 
-  <!-- Virtual Environment -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Python-logo-notext.svg" width="40" title="Python Virtual Environments (venv, conda)"/>
-
-  <!-- Antigravity (fun Python Easter Egg) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" width="40" title="import antigravity 🪂"/>
 
 </p>
 
