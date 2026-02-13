@@ -45,6 +45,7 @@ My focus is always on creating efficient, scalable, and production-level AI solu
 ## 🛠️ **Languages and Tools**
 
 
+
 <p align="left">
 
   <!-- Python -->
@@ -68,8 +69,6 @@ My focus is always on creating efficient, scalable, and production-level AI solu
   <!-- Node.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 
-  
-
   <!-- Pandas -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 
@@ -82,8 +81,6 @@ My focus is always on creating efficient, scalable, and production-level AI solu
   <!-- PyTorch -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
 
-  
-
   <!-- Scikit-Learn -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 
@@ -92,8 +89,6 @@ My focus is always on creating efficient, scalable, and production-level AI solu
 
   <!-- OpenCV -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
-
-  
 
   <!-- HuggingFace -->
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40"/>
@@ -113,11 +108,11 @@ My focus is always on creating efficient, scalable, and production-level AI solu
   <!-- GitHub -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 
-  <!-- AWS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
 
-  <!-- Google Cloud -->
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+  <!-- Linux -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 
   <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
@@ -131,10 +126,26 @@ My focus is always on creating efficient, scalable, and production-level AI solu
   <!-- Flask -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
 
-  <!-- Linux -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <!-- Anaconda -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40"/>
+
+  <!-- Bash -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+
+  <!-- Jenkins -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
+
+  <!-- Vite -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40"/>
+
+  <!-- Virtual Environment -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Python-logo-notext.svg" width="40" title="Python Virtual Environments (venv, conda)"/>
+
+  <!-- Antigravity (fun Python Easter Egg) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" width="40" title="import antigravity 🪂"/>
 
 </p>
+
 
 
 
