@@ -68,6 +68,8 @@ My focus is always on creating efficient, scalable, and production-level AI solu
   <!-- Node.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 
+  
+
   <!-- Pandas -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 
@@ -80,6 +82,8 @@ My focus is always on creating efficient, scalable, and production-level AI solu
   <!-- PyTorch -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
 
+  
+
   <!-- Scikit-Learn -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 
@@ -88,6 +92,8 @@ My focus is always on creating efficient, scalable, and production-level AI solu
 
   <!-- OpenCV -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
+
+  
 
   <!-- HuggingFace -->
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40"/>
