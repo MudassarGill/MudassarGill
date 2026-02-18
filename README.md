@@ -10,15 +10,15 @@ My focus is always on creating efficient, scalable, and production-level AI solu
 ### 🔧 Skills & Technologies
 
 • **Machine Learning & AI:** TensorFlow, PyTorch, Keras, Scikit-learn, RNN, LSTM, GRU, CNN, Transformers, Time-Series & Sequence Modeling  
-• **Computer Vision:** OpenCV, Image Classification, Object Detection, Deep Learning for image understanding  
-• **Natural Language Processing (NLP):** Hugging Face Transformers, NLTK, SpaCy, Text Generation, Embeddings, Sentiment Analysis, LLM Fine-tuning  
-• **Generative AI (GenAI):** GPT-based applications, AI Agents, Model Fine-tuning, Embeddings, RAG Pipelines  
+• **Computer Vision:** OpenCV, Image Classification, Object Detection  
+• **NLP:** Hugging Face Transformers, NLTK, SpaCy, Text Generation, Embeddings, Sentiment Analysis, LLM Fine-tuning  
+• **Generative AI:** GPT-based Apps, AI Agents, Model Fine-tuning, Embeddings, RAG Pipelines  
 • **Programming Languages:** Python, JavaScript, C++  
-• **Data Science & Analytics:** Pandas, NumPy, Matplotlib  
-• **Tools & Frameworks:** FastAPI, Flask, Docker, GitHub Actions, CI/CD, Model Serving, Model Monitoring  
+• **Data Science:** Pandas, NumPy, Matplotlib  
+• **Frameworks & Tools:** FastAPI, Flask, Docker, GitHub Actions, CI/CD  
 • **Web Development:** HTML, CSS, JavaScript, React, Flutter  
-• **Cloud & Deployment:** AWS, GCP, Render, Railway  
-• **MLOps:** CI/CD pipelines, Model Deployment, Versioning & Monitoring
+• **Cloud:** AWS, GCP, Render, Railway  
+• **MLOps:** CI/CD, Deployment, Versioning, Monitoring  
 
 ---
 
@@ -71,10 +71,35 @@ My focus is always on creating efficient, scalable, and production-level AI solu
 
 ---
 
-## 🔥 **GitHub Streak Stats**
+# 🔥 **GitHub Streak Stats**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MudassarGill&theme=highcontrast&hide_border=true" />
+</p>
+
+---
+
+# 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MudassarGill&show_icons=true&theme=highcontrast&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudassarGill&layout=compact&theme=highcontrast&hide_border=true" width="49%"/>
+</p>
+
+---
+
+# 📈 **GitHub Activity Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MudassarGill&theme=high-contrast&hide_border=true" />
+</p>
+
+---
+
+# 👁️ **Profile Views**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MudassarGill&style=for-the-badge&color=orange" />
 </p>
 
 ---
