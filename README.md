@@ -81,9 +81,9 @@ My focus is always on creating efficient, scalable, and production-level AI solu
 
 ##  GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MudassarGill&show_icons=true&theme=highcontrast&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MudassarGill&layout=compact&theme=highcontrast&hide_border=true" width="49%"/>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MudassarGill&show_icons=true&theme=highcontrast&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MudassarGill&layout=compact&theme=highcontrast&hide_border=true" width="49%"/>
 </p>
 
 
