@@ -71,24 +71,25 @@ My focus is always on creating efficient, scalable, and production-level AI solu
 
 ---
 
-# 🔥 **GitHub Streak Stats**
+#  **GitHub Streak Stats**
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=MudassarGill&theme=highcontrast&hide_border=true" />
 </p>
 
 ---
 
-# 📊 **GitHub Stats**
+##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MudassarGill&show_icons=true&theme=highcontrast&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudassarGill&layout=compact&theme=highcontrast&hide_border=true" width="49%"/>
+<p align="left">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MudassarGill&show_icons=true&theme=highcontrast&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MudassarGill&layout=compact&theme=highcontrast&hide_border=true" width="49%"/>
 </p>
+
 
 ---
 
-# 📈 **GitHub Activity Graph**
+#  **GitHub Activity Graph**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MudassarGill&theme=high-contrast&hide_border=true" />
@@ -96,9 +97,9 @@ My focus is always on creating efficient, scalable, and production-level AI solu
 
 ---
 
-# 👁️ **Profile Views**
+#  **Profile Views**
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=MudassarGill&style=for-the-badge&color=orange" />
 </p>
 
