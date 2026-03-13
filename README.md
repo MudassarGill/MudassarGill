@@ -140,18 +140,19 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 </p>
 
 ---
+## 🏆 GitHub Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MudassarGill&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MudassarGill&theme=github_dark" />
+</p>
+
+---
 
 # **GitHub Activity Graph**
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MudassarGill&theme=high-contrast&hide_border=true"/>
-</p>
-
----
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MudassarGill&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ---
