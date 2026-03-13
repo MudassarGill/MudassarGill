@@ -149,10 +149,10 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 
 ---
 
-# **GitHub Activity Graph**
+##  GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MudassarGill&theme=high-contrast&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MudassarGill&theme=high-contrast&hide_border=true" width="70%" style="border-radius: 12px;"/>
 </p>
 
 ---
