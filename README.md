@@ -151,7 +151,7 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MudassarGill&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MudassarGill&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ---
