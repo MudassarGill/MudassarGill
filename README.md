@@ -157,10 +157,12 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 
 ---
 
-# **Profile Views**
+## Profile & Social Stats
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=MudassarGill&style=for-the-badge&color=orange"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MudassarGill&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/MudassarGill?label=Followers&style=for-the-badge&color=1DA1F2"/>
+<img src="https://img.shields.io/github/repo-size/MudassarGill/MudassarGill?style=for-the-badge&color=orange"/>
 </p>
 
 ---
