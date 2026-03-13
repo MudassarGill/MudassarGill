@@ -1,7 +1,7 @@
 # 🌟 **Welcome to My GitHub Profile!** 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Deep+Learning+Developer;NLP+Engineer;Generative+AI+Developer;MLOps+Engineer;Building+Production+AI+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Deep+Learning+Developer;NLP+Engineer;Generative+AI+Developer;MLOps+Engineer;Building+Production+AI+Systems"/>
 </p>
 
 # **Hi! I'm Mudassar Gill**, an enthusiastic AI/ML Engineer with a strong passion for **Deep Learning, NLP, MLOps, Generative AI, and AI Agents**.
@@ -145,6 +145,13 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MudassarGill&theme=high-contrast&hide_border=true"/>
+</p>
+
+---
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MudassarGill&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
