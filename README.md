@@ -22,78 +22,16 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 
 ### 🔧 Skills & Technologies
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 Machine Learning & AI**
-TensorFlow · PyTorch · Keras · Scikit-learn · CNN · RNN · LSTM · GRU · Transformers · Time-Series Modeling
-
-</td>
-<td width="50%" valign="top">
-
-**👁️ Computer Vision**
-OpenCV · Image Classification · Object Detection
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🗣️ NLP & LLMs**
-Hugging Face Transformers · NLTK · SpaCy · Embeddings · Sentiment Analysis · LLM Fine-tuning
-
-</td>
-<td width="50%" valign="top">
-
-**✨ Generative AI**
-GPT Applications · AI Agents · Prompt Engineering · RAG Pipelines
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💻 Programming Languages**
-Python · JavaScript · C++
-
-</td>
-<td width="50%" valign="top">
-
-**📊 Data Science**
-Pandas · NumPy · Matplotlib · Jupyter
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌐 Web Development**
-HTML · CSS · JavaScript · React
-
-</td>
-<td width="50%" valign="top">
-
-**🔌 Frameworks & APIs**
-FastAPI · Flask · REST APIs
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**☁️ Cloud**
-AWS · Google Cloud Platform · Render · Railway
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ MLOps & DevOps**
-Docker · Kubernetes · CI/CD · GitHub Actions · Jenkins · MLflow · Prometheus · Grafana
-
-</td>
-</tr>
-</table>
+- **Machine Learning & AI:** TensorFlow, PyTorch, Keras, Scikit-learn, CNN, RNN, LSTM, GRU, Transformers, Time-Series Modeling  
+- **Computer Vision:** OpenCV, Image Classification, Object Detection  
+- **NLP & LLMs:** Hugging Face Transformers, NLTK, SpaCy, Embeddings, Sentiment Analysis, LLM Fine-tuning  
+- **Generative AI:** GPT Applications, AI Agents, Prompt Engineering, RAG Pipelines  
+- **Programming Languages:** Python, JavaScript, C++  
+- **Data Science:** Pandas, NumPy, Matplotlib, Jupyter  
+- **Web Development:** HTML, CSS, JavaScript, React  
+- **Frameworks & APIs:** FastAPI, Flask, REST APIs  
+- **Cloud:** AWS, Google Cloud Platform, Render, Railway  
+- **MLOps & DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins, MLflow, Prometheus, Grafana  
 
 ---
 
