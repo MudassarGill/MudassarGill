@@ -103,6 +103,12 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 ---
 
 ## GitHub Stats
+<p align="left">
+<img src="https://streak-stats.demolab.com?user=MudassarGill&theme=highcontrast&hide_border=false" width="50%"/>
+</p>
+
+
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MudassarGill&show_icons=true&theme=highcontrast&hide_border=false" width="40%"/>
