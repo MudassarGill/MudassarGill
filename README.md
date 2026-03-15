@@ -124,12 +124,11 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 
 ---
 
-# **GitHub Streak Stats**
+# GitHub Streak Stats
 
 <p align="left">
 <img src="https://streak-stats.demolab.com?user=MudassarGill&theme=highcontrast&hide_border=true"/>
 </p>
-
 ---
 
 ## GitHub Stats
