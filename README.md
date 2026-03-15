@@ -7,12 +7,12 @@
 # Hi! I'm Mudassar Gill
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-9D4EDD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%2FML%20Engineer-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLOps-2496ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Agent-1DA1F2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔬%20Data%20Scientist-9D4EDD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🤖%20AI%2FML%20Engineer-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🧠%20Deep%20Learning-EE4C2C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⚙️%20MLOps-2496ED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/✨%20Generative%20AI-00C853?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🕵️%20AI%20Agent-1DA1F2?style=for-the-badge&logoColor=white"/>
 </p>
 
 I love building intelligent systems that solve real-world problems — from **text generation and sequence modeling to scalable AI automation and production-ready ML pipelines**.  
@@ -62,7 +62,7 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -128,9 +128,9 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MudassarGill&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MudassarGill&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MudassarGill&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MudassarGill&theme=github_dark" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MudassarGill&theme=github_dark" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MudassarGill&theme=github_dark" width="30%"/>
 </p>
 
 ---
