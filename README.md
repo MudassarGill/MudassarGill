@@ -1,11 +1,19 @@
 # 🌟 Welcome to My GitHub Profile! 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Deep+Learning+Developer;NLP+Engineer;Generative+AI+Developer;MLOps+Engineer;Building+Production+AI+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=750&lines=Data+Scientist;AI%2FML+Engineer;Deep+Learning+Developer;NLP+Engineer;Generative+AI+Developer;MLOps+Engineer;AI+Agent+Developer;Building+Production+AI+Systems"/>
 </p>
 
 # Hi! I'm Mudassar Gill
-An enthusiastic **AI/ML Engineer** with a strong passion for **Deep Learning, NLP, MLOps, Generative AI, and AI Agents**.  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Scientist-9D4EDD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Engineer-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-2496ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Agent-1DA1F2?style=for-the-badge"/>
+</p>
 
 I love building intelligent systems that solve real-world problems — from **text generation and sequence modeling to scalable AI automation and production-ready ML pipelines**.  
 My focus is always on creating **efficient, scalable, and production-level AI solutions** using modern technologies.
