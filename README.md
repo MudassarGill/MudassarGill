@@ -41,7 +41,7 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mudassar65" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" style="margin-right:10px;" />
   </a>
@@ -107,8 +107,8 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MudassarGill&show_icons=true&theme=highcontrast&hide_border=false" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudassarGill&layout=compact&theme=highcontrast&hide_border=false" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MudassarGill&show_icons=true&theme=highcontrast&hide_border=false" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudassarGill&layout=compact&theme=highcontrast&hide_border=false" width="40%"/>
 </p>
 
 ---
