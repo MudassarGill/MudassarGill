@@ -41,9 +41,14 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/mudassar65)
-
-📧 **Email:** mudassarjutt65030@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/mudassar65" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" style="margin-right:10px;" />
+  </a>
+  <a href="mailto:mudassarjutt65030@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" style="margin-left:10px;" />
+  </a>
+</p>
 
 ---
 
