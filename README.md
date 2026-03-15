@@ -7,12 +7,12 @@
 # Hi! I'm Mudassar Gill
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔬%20Data%20Scientist-9D4EDD?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🤖%20AI%2FML%20Engineer-FF6F00?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🧠%20Deep%20Learning-EE4C2C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/⚙️%20MLOps-2496ED?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/✨%20Generative%20AI-00C853?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🕵️%20AI%20Agent-1DA1F2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Scientist-141414?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Engineer-141414?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-141414?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLOps-141414?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-141414?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Agent-141414?style=flat-square&logo=probot&logoColor=white"/>
 </p>
 
 I love building intelligent systems that solve real-world problems — from **text generation and sequence modeling to scalable AI automation and production-ready ML pipelines**.  
