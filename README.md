@@ -107,7 +107,7 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 ## GitHub Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MudassarGill&theme=highcontrast&hide_border=false" width="50%"/>
+<img src="https://streak-stats.demolab.com?user=MudassarGill&theme=highcontrast&hide_border=false&cache_seconds=30" width="50%"/>
 </p>
 
 ---
@@ -115,8 +115,8 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MudassarGill&show_icons=true&theme=highcontrast&hide_border=false" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudassarGill&layout=compact&theme=highcontrast&hide_border=false" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MudassarGill&show_icons=true&theme=highcontrast&hide_border=false&cache_seconds=30" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudassarGill&layout=compact&theme=highcontrast&hide_border=false&cache_seconds=30" width="45%"/>
 </p>
 
 ---
