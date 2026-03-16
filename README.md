@@ -123,7 +123,7 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 
 ## GitHub Profile Summary
 
-<p align="left">
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MudassarGill&theme=github_dark" />
 </p>
 
