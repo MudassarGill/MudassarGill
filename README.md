@@ -112,9 +112,11 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 
 ---
 
-## GitHub Stats
+## GitHub Streak Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MudassarGill&theme=tokyonight" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MudassarGill&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
