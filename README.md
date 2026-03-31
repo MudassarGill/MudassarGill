@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=750&lines=Data+Scientist;AI%2FML+Engineer;Deep+Learning+Developer;NLP+Engineer;Generative+AI+Developer;MLOps+Engineer;AI+Agent+Developer;Building+Production+AI+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=750&lines=Data+Scientist;AI%2FML+Engineer;Deep+Learning+Developer;NLP+Engineer;Generative+AI+Developer;MLOps+Engineer;AI%20Agent%20Developer;Building+Production+AI+Systems"/>
 </p>
 
 # Hi! I'm Mudassar Gill
@@ -51,10 +51,10 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mudassar65" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" style="margin-right:10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
   </a>
   <a href="mailto:mudassarjutt65030@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" style="margin-left:10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
   </a>
 </p>
 
@@ -107,7 +107,7 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 ## GitHub Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MudassarGill&theme=highcontrast&hide_border=false&cache_seconds=30" width="50%"/>
+<img src="https://streak-stats.demolab.com?user=MudassarGill&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -115,8 +115,8 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MudassarGill&show_icons=true&theme=highcontrast&hide_border=false&cache_seconds=30" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudassarGill&layout=compact&theme=highcontrast&hide_border=false&cache_seconds=30" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MudassarGill&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudassarGill&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 ---
@@ -127,18 +127,12 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MudassarGill&theme=github_dark" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MudassarGill&theme=github_dark" width="30%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MudassarGill&theme=github_dark" width="30%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MudassarGill&theme=github_dark" width="30%"/>
-</p>
-
 ---
 
 ## GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MudassarGill&theme=high-contrast&hide_border=false" width="75%" style="border-radius: 15px;"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MudassarGill&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
