@@ -115,7 +115,8 @@ My focus is always on creating **efficient, scalable, and production-level AI so
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-master-ranek.vercel.app/api?username=MudassarGill&show_icons=true&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MudassarGill&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MudassarGill&theme=github_dark"/>
 </p>
 
 ---
