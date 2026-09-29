@@ -40,15 +40,10 @@ My focus is on creating **clean, efficient, production-ready applications** that
 
 ---
 
-##  GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MudassarGill&theme=radical" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MudassarGill&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MudassarGill&theme=react-dark&hide_border=true&bg_color=0d1117&color=9D4EDD&line=9D4EDD&point=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=MudassarGill&theme=radical&hide_border=true&background=0d1117" />
 </p>
 
 ---
@@ -62,7 +57,7 @@ My focus is on creating **clean, efficient, production-ready applications** that
 
 ---
 
-##  Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mudassar-hussain-6533"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
