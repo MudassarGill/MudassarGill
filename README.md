@@ -43,12 +43,12 @@ My focus is on creating **clean, efficient, production-ready applications** that
 ##  GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mudassarhussain&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassarhussain&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MudassarGill&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MudassarGill&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mudassarhussain&theme=radical&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MudassarGill&theme=react-dark&hide_border=true&bg_color=0d1117&color=9D4EDD&line=9D4EDD&point=ffffff" />
 </p>
 
 ---
